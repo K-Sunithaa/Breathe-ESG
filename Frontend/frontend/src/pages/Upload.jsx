@@ -1,27 +1,39 @@
-const handleUpload = async () => {
+import axios from "axios";
 
-  if (!selectedFile) {
-    alert("Please select a file");
-    return;
-  }
+function Upload() {
 
-  const formData = new FormData();
-  formData.append("file", selectedFile);
-  formData.append("source_type", sourceType);
+  const handleUpload = async () => {
 
-  try {
+    if (!selectedFile) {
+      alert("Please select a file");
+      return;
+    }
 
-    // 👇 THIS IS WHERE IT GOES
-    const response = await axios.post(
-      "http://127.0.0.1:8000/upload/",
-      formData
-    );
+    const formData = new FormData();
+    formData.append("file", selectedFile);
+    formData.append("source_type", sourceType);
 
-    console.log(response.data);
-    alert("Upload successful");
+    try {
 
-  } catch (error) {
-    console.error(error);
-    alert("Upload failed");
-  }
-};
+      const response = await axios.post(
+        "http://127.0.0.1:8000/upload/",
+        formData
+      );
+
+      console.log(response.data);
+      alert("Upload successful");
+
+    } catch (error) {
+      console.error(error);
+      alert("Upload failed");
+    }
+  };
+
+  return (
+    <div>
+      Upload Page
+    </div>
+  );
+}
+
+export default Upload;
