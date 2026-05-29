@@ -1,0 +1,51 @@
+invoice_id,plant_code,vendor_name,contact_person,phone_number,city,state,fuel_type,quantity,unit,cost_inr,invoice_date
+INV001,BLR01,Shell India,Rajesh Kumar,9876543210,Bengaluru,Karnataka,Diesel,500,L,70000,10-01-2025
+INV002,CHE02,BP Fuels,Anita Sharma,98765,Chennai,Tamil Nadu,Petrol,300,L,45000,11-01-2025
+INV003,HYD01,IOCL,,9876512345,Hyderabad,Telangana,Diesel,-600,L,84000,2025-01-32
+INV004,BLR02,,Vikram Singh,abcd123456,Bengaluru,Karnataka,Petrol,200,L,30000,13-01-2025
+INV005,PUN01,Shell India,Ravi Kumar,,Pune,Maharashtra,Diesel,450,L,-63000,2025-13-14
+INV006,DEL01,BP Fuels,Neha Gupta,9876541111,Delhi,Delhi,Diesel,0,L,77000,15-01-2025
+INV007,BLR01,IOCL,Ashok,9876502222,,Karnataka,Petrol,250,litre,37500,16-01-2025
+INV008,CHE01,Shell India,Suresh,9876503333,Chennai,Tamil Nadu,Petrol ,400,L,56000,17-01-2025
+INV009,HYD02,BP Fuels,,9876504444,Hyderabad,Telangana,Diesel,650,L,91000,18-01-2025
+INV010,BLR03,IOCL,Manoj,9876505555,Bengaluru,Karnataka,Petrol,ten,L,28000,19-01-2025
+INV011,PUN02,Shell India,Divya,9876506666,Pune,Maharashtra,Diesel,500,L,70000,20-01-2025
+INV012,DEL02,BP Fuels,Arjun,9876507777,Delhi,,Diesel,600,L,84000,21-01-2025
+INV013,BLR01,IOCL,Rahul,9876508888,Bengaluru,Karnataka,Petrol,300,L,42000,2025-01-40
+INV014,CHE03,Shell India,Sneha,98765ABCDE,Chennai,Tamil Nadu,Diesel,700,L,98000,23-01-2025
+INV015,HYD03,BP Fuels,Karthik,9876511111,Hyderabad,Telangana,Diesel,500,L,70000,24-01-2025
+INV016,BLR02,IOCL,,9876512222,Bengaluru,Karnataka,Petrol,250,L,35000,25-01-2025
+INV017,PUN03,Shell India,Amit,9876513333,Pune,Maharashtra,Diesel,450,L,63000,2025-02-30
+INV018,DEL03,BP Fuels,Neeraj,9876514444,Delhi,Delhi,Diesel,550,L,77000,27-01-2025
+INV019,BLR04,IOCL,Suresh,,Bengaluru,Karnataka,Diesel,600,L,84000,28-01-2025
+INV020,CHE04,Shell India,Ravi,9876516666,Chennai,Tamil Nadu,Petrol,300,L,abc42000,29-01-2025
+INV021,HYD01,BP Fuels,,9876517777,Hyderabad,Telangana,Diesel,650,L,91000,30-01-2025
+INV022,BLR01,IOCL,Manish,9876518888,Bengaluru,Karnataka,Petrol,200,L,28000,31-01-2025
+INV023,PUN04,Shell India,Ashok,9876519999,Pune,Maharashtra,Diesel,500,L,70000,01-02-2025
+INV024,DEL04,BP Fuels,Neha,9876520000,Delhi,Delhi,Diesel,,L,84000,02-02-2025
+INV025,BLR05,IOCL,Rahul,9876521111,Bengaluru,Karnataka,Petrol,250,L,35000,03-02-2025
+INV026,CHE05,Shell India,Sneha,9876522222,Chennai,Tamil Nadu,Diesel,700,L,98000,04-02-2025
+INV027,HYD02,BP Fuels,Karthik,9876511111,Hyderabad,Telangana,Diesel,500,L,70000,05-02-2025
+INV028,BLR01,IOCL,Divya,9876524444,,KARNATAKA,Petrol,300,L,42000,06-02-2025
+INV029,PUN05,Shell India,Amit,9876525555,Pune,Maharashtra,Diesel,450,L,63000,07-02-2025
+INV030,DEL05,BP Fuels,Arjun,9876526666,Delhi,Delhi,Diesel,550,L,77000,08-02-2025
+INV031,BLR06,IOCL,Suresh,9876527777,Bengaluru,Karnataka,Petrol,200,L,-28000,09-02-2025
+INV032,CHE06,Shell India,Ravi,9876528888,Chennai,Tamil Nadu,Diesel,600,L,84000,10-02-2025
+INV033,HYD03,BP Fuels,Neha,98765,Hyderabad,Telangana,Diesel,650,L,91000,11-02-2025
+INV034,BLR07,IOCL,Manoj,9876530000,Bengaluru,Karnataka,Petrol,300,L,42000,12-02-2025
+INV035,PUN06,Shell India,,9876531111,Pune,Maharashtra,Diesel,500,L,70000,13-02-2025
+INV036,DEL06,BP Fuels,Divya,9876532222,Delhi,Delhi,Diesel,550,L,77000,14-02-2025
+INV037,BLR08,IOCL,Amit,9876533333,Bengaluru,Karnataka,Petrol,250,L,35000,15-02-2025
+INV038,CHE07,Shell India,Karthik,9876534444,Chennai,,Diesel,700,L,98000,16-02-2025
+INV039,HYD04,BP Fuels,Sneha,9876535555,Hyderabad,Telangana,Diesel,500,L,70000,2025-02-31
+INV040,BLR09,IOCL,Rahul,,Bengaluru,Karnataka,Petrol,300,L,42000,18-02-2025
+INV041,PUN07,Shell India,Arjun,9876537777,Pune,Maharashtra,Diesel,0,L,63000,19-02-2025
+INV042,DEL07,BP Fuels,Neeraj,9876538888,Delhi,Delhi,Diesel,600,L,84000,20-02-2025
+INV043,BLR10,IOCL,Suresh,9876539999,Bengaluru,Karnataka,Petrol,200,L,28000,21-02-2025
+INV044,CHE08,Shell India,Ravi,9876540001,Chennai,Tamil Nadu,Diesel,700,L,98000,22-02-2025
+INV045,HYD05,BP Fuels,Neha,9876540002,Hyderabad,Telangana,Diesel,-500,L,70000,23-02-2025
+INV046,BLR11,IOCL,Manoj,9876540003,Bengaluru,Karnataka,Petrol,300,L,42000,24-02-2025
+INV047,PUN08,Shell India,Amit,9876540004,Pune,Maharashtra,Diesel,450,L,63000,25-02-2025
+INV048,DEL08,BP Fuels,,9876540005,Delhi,Delhi,Diesel,550,L,77000,26-02-2025
+INV049,BLR12,IOCL,Divya,9876540006,Bengaluru,Karnataka,Petrol,250,L,35000,27-02-2025
+INV050,CHE09,Shell India,Karthik,9876540007,Chennai,Tamil Nadu,Diesel,600,L,84000,28-02-2025
