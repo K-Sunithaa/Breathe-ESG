@@ -1,3 +1,5 @@
 from django.contrib import admin
+from .models import DataIssue, RecordReview
 
-# Register your models here.
+admin.site.register(DataIssue)
+admin.site.register(RecordReview)
